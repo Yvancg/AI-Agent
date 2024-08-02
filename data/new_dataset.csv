@@ -1,0 +1,41 @@
+Threat ID,Date,Threat Type,Severity,Affected System,Description
+T051,2024-02-20,Ransomware,Critical,Server,Critical ransomware infection affecting server files.
+T052,2024-02-21,DDoS,High,Network,High-impact DDoS attack causing service interruptions.
+T053,2024-02-22,Malware,Medium,Workstation,Malware identified in software update.
+T054,2024-02-23,Phishing,Low,Server,Phishing email targeting user credentials.
+T055,2024-02-24,Ransomware,High,Workstation,Workstation hit by ransomware exploit.
+T056,2024-02-25,DDoS,Medium,Server,Server overloaded due to DDoS effects.
+T057,2024-02-26,Malware,Low,Network,Low-impact malware detected in logs.
+T058,2024-02-27,Phishing,Medium,Workstation,Suspicious email marked as phishing attempt.
+T059,2024-02-28,Ransomware,Critical,Network,Critical files encrypted due to ransomware.
+T060,2024-02-29,DDoS,High,Network,Significant DDoS affecting network performance.
+T061,2024-03-01,Malware,Medium,Server,Malware found during routine scans.
+T062,2024-03-02,Phishing,Low,Workstation,Employee reported unclear phishing emails.
+T063,2024-03-03,Ransomware,Critical,Server,Server security breach from ransomware.
+T064,2024-03-04,DDoS,High,Network,Major DDoS causing network outage.
+T065,2024-03-05,Malware,Low,Workstation,Minimal malware detected on desktop.
+T066,2024-03-06,Phishing,Medium,Server,Server targeted in phishing scheme.
+T067,2024-03-07,Ransomware,High,Workstation,High risk ransomware affecting multiple devices.
+T068,2024-03-08,DDoS,Medium,Server,Medium scale DDoS testing server resilience.
+T069,2024-03-09,Malware,Low,Network,Minor risks identified in network security.
+T070,2024-03-10,Phishing,Medium,Workstation,Phishing attempt bypassing initial filters.
+T071,2024-03-11,Ransomware,Critical,Network,Ransomware causing extensive data loss.
+T072,2024-03-12,DDoS,High,Server,High traffic overload from DDoS attacks.
+T073,2024-03-13,Malware,Medium,Workstation,Evaluation found malware in applications.
+T074,2024-03-14,Phishing,Low,Server,Server receipt of phishing URLs.
+T075,2024-03-15,Ransomware,High,Workstation,Workstation compromised by ransomware encryption.
+T076,2024-03-16,DDoS,Medium,Network,Moderate DDoS attack on public services.
+T077,2024-03-17,Malware,Low,Workstation,Low threat malware found on user’s PC.
+T078,2024-03-18,Phishing,Medium,Server,Phishing protocol breach reported to IT.
+T079,2024-03-19,Ransomware,Critical,Server,Ransomware deploying across multiple systems.
+T080,2024-03-20,DDoS,High,Network,Extended DDoS event observed on the network.
+T051,2024-02-20,Ransomware,Critical,Server,Critical ransomware attack encrypting server data.
+T052,2024-02-21,DDoS,High,Network,DDoS attack causing significant downtime for network services.
+T053,2024-02-22,Malware,Medium,Workstation,Malware detected in files downloaded from the internet.
+T054,2024-02-23,Phishing,Low,Server,Phishing email attempting to steal credentials from admin.
+T055,2024-02-24,Ransomware,High,Network,Ransomware affecting critical systems in the network.
+T056,2024-02-25,DDoS,Medium,Server,Medium DDoS attack impacting server performance.
+T057,2024-02-26,Malware,Low,Workstation,Low impact malware identified in employee's laptop.
+T058,2024-02-27,Phishing,Medium,Workstation,Employee received phishing link masquerading as internal mail.
+T059,2024-02-28,Ransomware,Critical,Server,Server data compromised due to ransomware attack.
+T060,2024-02-29,DDoS,High,Network,High volume DDoS attack interrupted service availability.

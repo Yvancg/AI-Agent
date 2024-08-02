@@ -1,0 +1,51 @@
+Threat ID,Date,Threat Type,Severity,Affected System,Description
+T001,2024-01-01,Malware,High,Server,Detected malware on server causing data breach.
+T002,2024-01-02,Phishing,Medium,Workstation,Phishing email received by employee.
+T003,2024-01-03,Ransomware,Critical,Network,Ransomware attack encrypting network files.
+T004,2024-01-04,DDoS,High,Network,Distributed Denial of Service attack on network.
+T005,2024-01-05,Malware,Low,Workstation,Malware detected on workstation.
+T006,2024-01-06,Phishing,Medium,Server,Phishing attempt on server login.
+T007,2024-01-07,Ransomware,Critical,Workstation,Ransomware found on employee's computer.
+T008,2024-01-08,DDoS,High,Server,DDoS attack impacting server availability.
+T009,2024-01-09,Malware,High,Network,Network malware causing slow performance.
+T010,2024-01-10,Phishing,Low,Workstation,Phishing email with suspicious link.
+T011,2024-01-11,Ransomware,Critical,Server,Server files encrypted by ransomware.
+T012,2024-01-12,DDoS,High,Network,Large scale DDoS attack on network.
+T013,2024-01-13,Malware,Medium,Workstation,Malware detected in employee email attachment.
+T014,2024-01-14,Phishing,Low,Server,Phishing attempt on admin login.
+T015,2024-01-15,Ransomware,High,Workstation,Ransomware discovered on workstation.
+T016,2024-01-16,DDoS,Medium,Server,DDoS attack targeting specific server.
+T017,2024-01-17,Malware,Low,Network,Malware found in network traffic.
+T018,2024-01-18,Phishing,Medium,Workstation,Phishing scam targeting employee.
+T019,2024-01-19,Ransomware,Critical,Server,Severe ransomware attack on main server.
+T020,2024-01-20,DDoS,High,Network,Network downtime due to DDoS attack.
+T021,2024-01-21,Malware,Medium,Server,Malware infection on server files.
+T022,2024-01-22,Phishing,Low,Workstation,Employee reported phishing email.
+T023,2024-01-23,Ransomware,Critical,Network,Ransomware attack spreading through network.
+T024,2024-01-24,DDoS,High,Server,Severe DDoS attack causing server crash.
+T025,2024-01-25,Malware,Low,Workstation,Malware detected in downloaded software.
+T026,2024-01-26,Phishing,Medium,Server,Phishing attempt with fake admin alert.
+T027,2024-01-27,Ransomware,Critical,Workstation,Ransomware attack on personal computer.
+T028,2024-01-28,DDoS,High,Network,High volume DDoS attack on network infrastructure.
+T029,2024-01-29,Malware,High,Server,Severe malware infection on server.
+T030,2024-01-30,Phishing,Low,Workstation,Phishing email detected in inbox.
+T031,2024-01-31,Ransomware,Critical,Network,Ransomware attack causing data loss.
+T032,2024-02-01,DDoS,High,Server,Server outage due to DDoS attack.
+T033,2024-02-02,Malware,Medium,Workstation,Employee workstation infected with malware.
+T034,2024-02-03,Phishing,Low,Server,Phishing attempt targeting admin credentials.
+T035,2024-02-04,Ransomware,High,Workstation,Ransomware discovered in network drive.
+T036,2024-02-05,DDoS,Medium,Network,Moderate DDoS attack on network services.
+T037,2024-02-06,Malware,Low,Workstation,Low severity malware found in email.
+T038,2024-02-07,Phishing,Medium,Server,Server phishing attempt through email.
+T039,2024-02-08,Ransomware,Critical,Network,Massive ransomware attack on network.
+T040,2024-02-09,DDoS,High,Server,Server disruption due to DDoS attack.
+T041,2024-02-10,Malware,High,Network,Network slowdown caused by malware.
+T042,2024-02-11,Phishing,Low,Workstation,Phishing email reported by employee.
+T043,2024-02-12,Ransomware,Critical,Server,Server compromised by ransomware.
+T044,2024-02-13,DDoS,High,Network,Network services affected by DDoS attack.
+T045,2024-02-14,Malware,Medium,Workstation,Malware infection on employee computer.
+T046,2024-02-15,Phishing,Low,Server,Admin received phishing email.
+T047,2024-02-16,Ransomware,High,Workstation,High severity ransomware attack.
+T048,2024-02-17,DDoS,Medium,Server,DDoS attack on company server.
+T049,2024-02-18,Malware,Low,Network,Minor malware infection detected in network.
+T050,2024-02-19,Phishing,Medium,Workstation,Employee targeted by phishing scam.
