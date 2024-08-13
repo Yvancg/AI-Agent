@@ -1,4 +1,3 @@
-```txt
 # AI Agent Project
 
 This project is an AI agent that uses the OpenAI API to analyze and generate data based on a given dataset. The code reads a CSV file, processes the data, and uses two agents to analyze and generate new data.
@@ -98,4 +97,3 @@ Generated data has been saved to data/new_dataset.csv
 ## License
 
 This project is licensed under the MIT License.
-```
